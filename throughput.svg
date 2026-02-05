@@ -1,0 +1,69 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='900' height='540' viewBox='0 0 900 540'>
+<rect width='100%' height='100%' fill='white' />
+<line x1='70' y1='470.00' x2='830' y2='470.00' stroke='#e5e5e5' stroke-width='1' />
+<line x1='70' y1='405.12' x2='830' y2='405.12' stroke='#e5e5e5' stroke-width='1' />
+<line x1='70' y1='340.25' x2='830' y2='340.25' stroke='#e5e5e5' stroke-width='1' />
+<line x1='70' y1='275.37' x2='830' y2='275.37' stroke='#e5e5e5' stroke-width='1' />
+<line x1='70' y1='210.49' x2='830' y2='210.49' stroke='#e5e5e5' stroke-width='1' />
+<line x1='70' y1='145.61' x2='830' y2='145.61' stroke='#e5e5e5' stroke-width='1' />
+<line x1='70' y1='80.74' x2='830' y2='80.74' stroke='#e5e5e5' stroke-width='1' />
+<line x1='70' y1='470' x2='830' y2='470' stroke='#333' stroke-width='2' />
+<line x1='70' y1='70' x2='70' y2='470' stroke='#333' stroke-width='2' />
+<line x1='70.00' y1='470' x2='70.00' y2='476' stroke='#333' stroke-width='1' />
+<text x='70.00' y='492' font-size='12' text-anchor='middle' fill='#333'>4096</text>
+<line x1='146.00' y1='470' x2='146.00' y2='476' stroke='#333' stroke-width='1' />
+<text x='146.00' y='492' font-size='12' text-anchor='middle' fill='#333'>8192</text>
+<line x1='222.00' y1='470' x2='222.00' y2='476' stroke='#333' stroke-width='1' />
+<text x='222.00' y='492' font-size='12' text-anchor='middle' fill='#333'>12288</text>
+<line x1='298.00' y1='470' x2='298.00' y2='476' stroke='#333' stroke-width='1' />
+<text x='298.00' y='492' font-size='12' text-anchor='middle' fill='#333'>16384</text>
+<line x1='374.00' y1='470' x2='374.00' y2='476' stroke='#333' stroke-width='1' />
+<text x='374.00' y='492' font-size='12' text-anchor='middle' fill='#333'>20480</text>
+<line x1='450.00' y1='470' x2='450.00' y2='476' stroke='#333' stroke-width='1' />
+<text x='450.00' y='492' font-size='12' text-anchor='middle' fill='#333'>24576</text>
+<line x1='526.00' y1='470' x2='526.00' y2='476' stroke='#333' stroke-width='1' />
+<text x='526.00' y='492' font-size='12' text-anchor='middle' fill='#333'>28672</text>
+<line x1='602.00' y1='470' x2='602.00' y2='476' stroke='#333' stroke-width='1' />
+<text x='602.00' y='492' font-size='12' text-anchor='middle' fill='#333'>32768</text>
+<line x1='678.00' y1='470' x2='678.00' y2='476' stroke='#333' stroke-width='1' />
+<text x='678.00' y='492' font-size='12' text-anchor='middle' fill='#333'>36864</text>
+<line x1='754.00' y1='470' x2='754.00' y2='476' stroke='#333' stroke-width='1' />
+<text x='754.00' y='492' font-size='12' text-anchor='middle' fill='#333'>40960</text>
+<line x1='830.00' y1='470' x2='830.00' y2='476' stroke='#333' stroke-width='1' />
+<text x='830.00' y='492' font-size='12' text-anchor='middle' fill='#333'>45056</text>
+<line x1='64' y1='470.00' x2='70' y2='470.00' stroke='#333' stroke-width='1' />
+<text x='60' y='474.00' font-size='12' text-anchor='end' fill='#333'>0</text>
+<line x1='64' y1='405.12' x2='70' y2='405.12' stroke='#333' stroke-width='1' />
+<text x='60' y='409.12' font-size='12' text-anchor='end' fill='#333'>1</text>
+<line x1='64' y1='340.25' x2='70' y2='340.25' stroke='#333' stroke-width='1' />
+<text x='60' y='344.25' font-size='12' text-anchor='end' fill='#333'>2</text>
+<line x1='64' y1='275.37' x2='70' y2='275.37' stroke='#333' stroke-width='1' />
+<text x='60' y='279.37' font-size='12' text-anchor='end' fill='#333'>3</text>
+<line x1='64' y1='210.49' x2='70' y2='210.49' stroke='#333' stroke-width='1' />
+<text x='60' y='214.49' font-size='12' text-anchor='end' fill='#333'>4</text>
+<line x1='64' y1='145.61' x2='70' y2='145.61' stroke='#333' stroke-width='1' />
+<text x='60' y='149.61' font-size='12' text-anchor='end' fill='#333'>5</text>
+<line x1='64' y1='80.74' x2='70' y2='80.74' stroke='#333' stroke-width='1' />
+<text x='60' y='84.74' font-size='12' text-anchor='end' fill='#333'>6</text>
+<polyline fill='none' stroke='#1f77b4' stroke-width='3' points='70.00,451.25 146.00,400.52 222.00,336.48 298.00,272.97 374.00,222.62 450.00,186.75 526.00,162.74 602.00,143.86 678.00,128.16 754.00,132.12 830.00,106.36' />
+<circle cx='70.00' cy='451.25' r='4' fill='#1f77b4' />
+<circle cx='146.00' cy='400.52' r='4' fill='#1f77b4' />
+<circle cx='222.00' cy='336.48' r='4' fill='#1f77b4' />
+<circle cx='298.00' cy='272.97' r='4' fill='#1f77b4' />
+<circle cx='374.00' cy='222.62' r='4' fill='#1f77b4' />
+<circle cx='450.00' cy='186.75' r='4' fill='#1f77b4' />
+<circle cx='526.00' cy='162.74' r='4' fill='#1f77b4' />
+<circle cx='602.00' cy='143.86' r='4' fill='#1f77b4' />
+<circle cx='678.00' cy='128.16' r='4' fill='#1f77b4' />
+<circle cx='754.00' cy='132.12' r='4' fill='#1f77b4' />
+<circle cx='830.00' cy='106.36' r='4' fill='#1f77b4' />
+<circle cx='830.00' cy='106.36' r='5' fill='red' />
+<rect x='630.0' y='26.363636363636374' width='180' height='66' fill='#fff' stroke='#333' stroke-width='1' />
+<text x='638.0' y='46.363636363636374' font-size='12' fill='#333'>n=45056</text>
+<text x='638.0' y='64.36363636363637' font-size='12' fill='#333'>5.605 TFLOP/s</text>
+<text x='638.0' y='82.36363636363637' font-size='12' fill='#333'>28.7% of 19.5</text>
+<line x1='810.0' y1='59.363636363636374' x2='830.00' y2='106.36' stroke='#333' stroke-width='1' />
+<text x='450.0' y='28' font-size='18' text-anchor='middle' fill='#111'>triton-dsytrd throughput</text>
+<text x='450.0' y='520' font-size='14' text-anchor='middle' fill='#111'>n</text>
+<text x='20' y='270.0' font-size='14' text-anchor='middle' fill='#111' transform='rotate(-90 20 270.0)'>TFLOP/s (model=4/3*n^3)</text>
+</svg>
